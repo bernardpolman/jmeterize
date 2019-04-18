@@ -1,0 +1,15 @@
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\bin\Release\JMeteorApp.exe.config
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\bin\Release\JMeteorApp.exe
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\bin\Release\JMeteorApp.pdb
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.csprojAssemblyReference.cache
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\MainWindow.g.cs
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\App.g.cs
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp_MarkupCompile.cache
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp_MarkupCompile.lref
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\MainWindow.baml
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.g.resources
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.Properties.Resources.resources
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.csproj.GenerateResource.cache
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.csproj.CoreCompileInputs.cache
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.exe
+D:\Projekti\JMeteor\JMeteorApp\JMeteorApp\obj\Release\JMeteorApp.pdb
